@@ -6,7 +6,12 @@
 
     <groupId>com.bjsxt</groupId>
     <artifactId>bz_parent</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>common_mapper</module>
+        <module>common_pojo</module>
+    </modules>
 
     <!--Spring Boot父工程-->
     <parent>
