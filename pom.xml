@@ -15,6 +15,8 @@
         <module>backend_item</module>
         <module>common_utils</module>
         <module>common_tx_manager_client</module>
+        <module>common_content</module>
+        <module>backend_content</module>
     </modules>
 
     <!--Spring Boot父工程-->
