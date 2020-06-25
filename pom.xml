@@ -17,6 +17,7 @@
         <module>common_tx_manager_client</module>
         <module>common_content</module>
         <module>backend_content</module>
+        <module>frontend_portab</module>
     </modules>
 
     <!--Spring Boot父工程-->

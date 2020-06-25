@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: frontend-portal
+  rabbitmq:
+    addresses: 192.168.6.122
+    username: blur
+    password: 123456
+    port: 5672
+    virtual-host: /
+server:
+  port: 9030
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://eureka-server:8761/eureka/
+
+
